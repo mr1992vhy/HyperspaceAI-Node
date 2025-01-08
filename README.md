@@ -63,7 +63,11 @@ aios-cli start
 ```
 * To continue, minimize your screen using `CTRL+A+D` or Open second terminal
 * Turn back to screen: `screen -r hyperspace`
-
+* open dashborad in your PC and copy Private Key
+### create file and paste your Private Key + save it
+```console
+nano my.pem
+``` 
 ### Config Node
 ```console
 # Download a required model
